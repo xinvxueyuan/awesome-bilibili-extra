@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/HCLonely/awesome-bilibili-extra#readme",
   "devDependencies": {
-    "axios": "^0.26.0",
+    "axios": "^0.30.2",
     "dayjs": "^1.10.8",
     "pangu": "^4.0.7",
     "yaml": "^2.7.1"
